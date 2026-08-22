@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-22T17:29:56",
+  "last_updated": "2026-08-22T17:30:25",
   "html": {
     "https://web.archive.org/web/20251007191806if_/https://twitter.com/magie0527/status/1975641804059124015": {
       "status": "done",
@@ -1556,7 +1556,7 @@
   },
   "avatars": {
     "https://pbs.twimg.com/profile_images/1859946077061091328/7BhLQwG8_normal.jpg": {
-      "status": "failed_all",
+      "status": "done",
       "referenced_by": [
         "20241122133951_twitter_com_magie0527_status_1859954951864418477.json",
         "20251007191806_twitter_com_magie0527_status_1975641804059124015.json",
@@ -1564,7 +1564,7 @@
         "20251102050954_twitter_com_magie0527_status_1984850431470964791.json",
         "20251102051107_twitter_com_magie0527_status_1984850737869046019.json"
       ],
-      "last_updated": "2026-08-22T15:41:13",
+      "last_updated": "2026-08-22T17:30:11",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20251102051107if_/https://pbs.twimg.com/profile_images/1859946077061091328/7BhLQwG8_normal.jpg",
       "miss_count": 1
     },
@@ -1883,9 +1883,9 @@
       "referenced_by": [
         "20260801202441_twitter_com_magie0527_status_2083650144466268504.json"
       ],
-      "last_updated": "2026-08-22T15:41:13",
+      "last_updated": "2026-08-22T17:30:17",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260801202441if_/https://pbs.twimg.com/profile_images/2079927151646900224/F9uYTzIo_normal.jpg",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg": {
       "status": "done",
@@ -1914,9 +1914,9 @@
       "referenced_by": [
         "20260802051950_twitter_com_magie0527_status_2083784820472373468.json"
       ],
-      "last_updated": "2026-08-22T15:41:12",
+      "last_updated": "2026-08-22T17:30:19",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260802051950if_/https://pbs.twimg.com/profile_images/2080949461128462336/buEHLXUV_normal.jpg",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2071258839513526272/vtOebiN9_normal.jpg": {
       "status": "done",
@@ -2296,9 +2296,9 @@
         "20260812115619_twitter_com_magie0527_status_2087508477375918191.json",
         "20260812160815_twitter_com_magie0527_status_2087571877036474825.json"
       ],
-      "last_updated": "2026-08-22T15:41:11",
+      "last_updated": "2026-08-22T17:30:25",
       "last_reason": "无法识别 profile pid",
-      "miss_count": 3
+      "miss_count": 6
     },
     "https://pbs.twimg.com/profile_images/2086138357508378624/cnEzNbHn_normal.jpg": {
       "status": "done",
@@ -2493,18 +2493,18 @@
       "last_updated": "2026-08-22T15:41:11"
     },
     "https://pbs.twimg.com/profile_images/2078382671097389056/RnwBovuX_normal.jpg": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260815164434_twitter_com_magie0527_status_2088668181527503256.json"
       ],
-      "last_updated": "2026-08-22T15:41:13",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260815164434if_/https://pbs.twimg.com/profile_images/2078382671097389056/RnwBovuX_normal.jpg",
-      "miss_count": 1
+      "last_updated": "2026-08-22T17:30:25",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260815164434if_/https://pbs.twimg.com/profile_images/2078382671097389056/RnwBovuX_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7faca00ebec0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 2
     }
   },
   "media": {
     "20241122133951_twitter_com_magie0527_status_1859954951864418477.json": {
-      "status": "failed_all",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/Gc_jIEhbMAA59kq.jpg"
@@ -2514,11 +2514,11 @@
           "https://pbs.twimg.com/profile_images/1859946077061091328/7BhLQwG8_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-22T17:27:34",
+      "last_updated": "2026-08-22T17:30:11",
       "miss_count": 2
     },
     "20251007191806_twitter_com_magie0527_status_1975641804059124015.json": {
-      "status": "failed_all",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -2526,7 +2526,7 @@
           "https://pbs.twimg.com/profile_images/1859946077061091328/7BhLQwG8_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-22T17:26:58",
+      "last_updated": "2026-08-22T17:30:11",
       "miss_count": 2
     },
     "20251102050812_twitter_com_magie0527_status_1984850005929443645.json": {
@@ -2544,7 +2544,7 @@
       "last_updated": "2026-08-22T15:41:13"
     },
     "20251102050954_twitter_com_magie0527_status_1984850431470964791.json": {
-      "status": "failed_all",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/G4ua3F3bQAATAzi.jpg"
@@ -2554,7 +2554,7 @@
           "https://pbs.twimg.com/profile_images/1859946077061091328/7BhLQwG8_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-22T17:27:37",
+      "last_updated": "2026-08-22T17:30:11",
       "miss_count": 2
     },
     "20251102051107_twitter_com_magie0527_status_1984850737869046019.json": {
@@ -5427,7 +5427,7 @@
       "miss_count": 2
     },
     "20260815164434_twitter_com_magie0527_status_2088668181527503256.json": {
-      "status": "done",
+      "status": "failed",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HPvHD1dXUAAgiMB.jpg"
@@ -5438,7 +5438,7 @@
           "https://pbs.twimg.com/profile_images/2078382671097389056/RnwBovuX_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-22T15:41:13"
+      "last_updated": "2026-08-22T17:30:25"
     },
     "20260815171630_twitter_com_magie0527_status_2088676215796421030.json": {
       "status": "done",
