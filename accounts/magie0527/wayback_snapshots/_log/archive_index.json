@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-22T17:29:38",
+  "last_updated": "2026-08-22T17:29:56",
   "html": {
     "https://web.archive.org/web/20251007191806if_/https://twitter.com/magie0527/status/1975641804059124015": {
       "status": "done",
@@ -1519,18 +1519,18 @@
       "referenced_by": [
         "20260810182309_twitter_com_magie0527_status_2086881048970006867.json"
       ],
-      "last_updated": "2026-08-22T15:40:49",
+      "last_updated": "2026-08-22T17:29:54",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260810182309/https://video.twimg.com/amplify_video/2086880671558250496/vid/avc1/720x1280/Kd_LGZ_ThJitA9js.mp4?tag=14",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://video.twimg.com/amplify_video/2087842114008924161/vid/avc1/720x1280/KKBkvpkU5pFklHK0.mp4?tag=14": {
       "status": "failed_all",
       "referenced_by": [
         "20260813100326_twitter_com_magie0527_status_2087842457329492137.json"
       ],
-      "last_updated": "2026-08-22T15:40:49",
+      "last_updated": "2026-08-22T17:29:56",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260813100326/https://video.twimg.com/amplify_video/2087842114008924161/vid/avc1/720x1280/KKBkvpkU5pFklHK0.mp4?tag=14",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://video.twimg.com/amplify_video/2087888513354379264/vid/avc1/720x1280/8vl6h9UieeobATtV.mp4?tag=14": {
       "status": "done",
