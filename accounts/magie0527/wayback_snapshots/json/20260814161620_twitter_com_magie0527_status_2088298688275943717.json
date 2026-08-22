@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1859945704082616320",
+    "conversation_id": "2088188273240031330",
+    "created_at": "2026-08-14T16:16:20.000Z",
+    "display_text_range": [
+      12,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T17:16:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088298688275943717"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2081556791746588672",
+          "start": 0,
+          "username": "rockmanfly"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088298688275943717",
+    "in_reply_to_user_id": "2081556791746588672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088294248538107923",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rockmanfly 没事没事的，感谢关心😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1859945704082616320",
+        "conversation_id": "2088188273240031330",
+        "created_at": "2026-08-14T16:16:20.000Z",
+        "display_text_range": [
+          12,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T17:16:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088298688275943717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2081556791746588672",
+              "start": 0,
+              "username": "rockmanfly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088298688275943717",
+        "in_reply_to_user_id": "2081556791746588672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088294248538107923",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rockmanfly 没事没事的，感谢关心😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2081556791746588672",
+        "conversation_id": "2088188273240031330",
+        "created_at": "2026-08-14T15:58:42.000Z",
+        "display_text_range": [
+          11,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T16:58:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088294248538107923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1859945704082616320",
+              "start": 0,
+              "username": "magie0527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088294248538107923",
+        "in_reply_to_user_id": "1859945704082616320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088188273240031330",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@magie0527 七个小时了你没事吧"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-22T13:03:13.000Z",
+        "description": "=小梦 焦虑抑郁\n互fo同类大欢迎",
+        "id": "1859945704082616320",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088298688275943717",
+        "name": "夢夢夢夢梦",
+        "pinned_tweet_id": "2087196839322014092",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1859945704082616320/1785171215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081784772511367170/eiwklKMv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 69,
+          "like_count": 450,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 217
+        },
+        "url": "",
+        "username": "magie0527",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-27T01:48:36.000Z",
+        "description": "时长在内地，偶尔在大阪和清迈，Currently in Chiang Mai, Thailand, occasionally in Osaka.\nLooking for a companion\n現在はタイのチェンマイにいて、ときどき大阪にもいます\n仲間を探す",
+        "id": "2081556791746588672",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088296604721934542",
+        "name": "Yi Huang",
+        "pinned_tweet_id": "2087110402589032682",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2081556791746588672/1785729423",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081557941237456896/2hRylfzo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 120,
+          "like_count": 94,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 182
+        },
+        "url": "",
+        "username": "rockmanfly",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1859945704082616320",
+    "conversation_id": "2087196839322014092",
+    "created_at": "2026-08-11T19:05:22.000Z",
+    "display_text_range": [
+      16,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T20:05:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087254063142605173"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1374681196412559360",
+          "start": 0,
+          "username": "KoiShi79538682"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087254063142605173",
+    "in_reply_to_user_id": "1374681196412559360",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087253807298482588",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KoiShi79538682 懂你意思"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1859945704082616320",
+        "conversation_id": "2087196839322014092",
+        "created_at": "2026-08-11T19:05:22.000Z",
+        "display_text_range": [
+          16,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T20:05:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087254063142605173"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1374681196412559360",
+              "start": 0,
+              "username": "KoiShi79538682"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087254063142605173",
+        "in_reply_to_user_id": "1374681196412559360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087253807298482588",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KoiShi79538682 懂你意思"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374681196412559360",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2087196839322014092",
+        "created_at": "2026-08-11T19:04:21.000Z",
+        "display_text_range": [
+          11,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T20:04:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087253807298482588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1859945704082616320",
+              "start": 0,
+              "username": "magie0527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087253807298482588",
+        "in_reply_to_user_id": "1859945704082616320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087253197631164828",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@magie0527 哇，我也是，最近在一些看原著改编的电影的，非常喜欢狼夫。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-22T13:03:13.000Z",
+        "description": "=小梦 焦虑抑郁\n互fo同类大欢迎",
+        "id": "1859945704082616320",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087254063142605173",
+        "name": "夢夢夢夢梦",
+        "pinned_tweet_id": "2087196839322014092",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1859945704082616320/1785171215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081784772511367170/eiwklKMv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 65,
+          "like_count": 370,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 135
+        },
+        "url": "",
+        "username": "magie0527",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-03-24T11:15:20.000Z",
+        "description": "不OD 普通人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/6bLyhH",
+                "end": 23,
+                "expanded_url": "https://b23.tv/6bLyhH",
+                "start": 0,
+                "url": "https://t.co/A1shlGqsSc"
+              }
+            ]
+          }
+        },
+        "id": "1374681196412559360",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087253807298482588",
+        "name": "超级沙包",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1762433524450373632/ej3YeGuM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 928,
+          "like_count": 2428,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 3092
+        },
+        "url": "https://t.co/A1shlGqsSc",
+        "username": "KoiShi79538682",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

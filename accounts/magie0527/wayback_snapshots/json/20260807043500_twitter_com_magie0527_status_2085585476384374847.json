@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085585397447598080"
+      ]
+    },
+    "author_id": "1859945704082616320",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2085585476384374847",
+    "created_at": "2026-08-07T04:35:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T05:35:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085585476384374847"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5JkllLM3HR",
+          "end": 27,
+          "expanded_url": "https://x.com/magie0527/status/2085585476384374847/photo/1",
+          "media_key": "3_2085585397447598080",
+          "start": 4,
+          "url": "https://t.co/5JkllLM3HR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085585476384374847",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "啊啊， https://t.co/5JkllLM3HR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 444,
+        "media_key": "3_2085585397447598080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPF83nubIAAuCQP.jpg",
+        "width": 787
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085585397447598080"
+          ]
+        },
+        "author_id": "1859945704082616320",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2085585476384374847",
+        "created_at": "2026-08-07T04:35:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T05:35:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085585476384374847"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5JkllLM3HR",
+              "end": 27,
+              "expanded_url": "https://x.com/magie0527/status/2085585476384374847/photo/1",
+              "media_key": "3_2085585397447598080",
+              "start": 4,
+              "url": "https://t.co/5JkllLM3HR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085585476384374847",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啊啊， https://t.co/5JkllLM3HR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-22T13:03:13.000Z",
+        "description": "=小梦/全中文/💊🚬🎨\n刚开始玩，互fo大欢迎\n欢迎互动！我很努力的回复",
+        "id": "1859945704082616320",
+        "name": "夢夢夢夢梦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081784772511367170/eiwklKMv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 45,
+          "like_count": 262,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 61
+        },
+        "url": "",
+        "username": "magie0527",
+        "verified": false
+      }
+    ]
+  }
+}

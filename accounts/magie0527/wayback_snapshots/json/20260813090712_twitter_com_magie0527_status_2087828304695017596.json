@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1859945704082616320",
+    "conversation_id": "2087828304695017596",
+    "created_at": "2026-08-13T09:07:12.000Z",
+    "display_text_range": [
+      0,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T10:07:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087828304695017596"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/67De_dian/stat…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/67De_dian/status/2087667609223524719",
+          "start": 12,
+          "url": "https://t.co/D3JB8wvZB5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087828304695017596",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087667609223524719",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不要啊怎么小六点也！！ https://t.co/D3JB8wvZB5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2087667596275728384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPjini0bwAAju_f.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1859945704082616320",
+        "conversation_id": "2087828304695017596",
+        "created_at": "2026-08-13T09:07:12.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T10:07:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087828304695017596"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/67De_dian/stat…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/67De_dian/status/2087667609223524719",
+              "start": 12,
+              "url": "https://t.co/D3JB8wvZB5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087828304695017596",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087667609223524719",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不要啊怎么小六点也！！ https://t.co/D3JB8wvZB5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087667596275728384"
+          ]
+        },
+        "author_id": "2087636528633982976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2087667609223524719",
+        "created_at": "2026-08-12T22:28:39.000Z",
+        "display_text_range": [
+          0,
+          152
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T23:28:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087667609223524719"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/381LEvDCBg",
+              "end": 176,
+              "expanded_url": "https://x.com/67De_dian/status/2087667609223524719/photo/1",
+              "media_key": "3_2087667596275728384",
+              "start": 153,
+              "url": "https://t.co/381LEvDCBg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087667609223524719",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087667596275728384"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 583,
+          "like_count": 11,
+          "quote_count": 5,
+          "reply_count": 2,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "🔝置顶\n可以叫我6点哦\n700fo大号已被msk击落\n接下来将迎接的将是6点的2.0版本——\n\n｜双相｜ODer｜oc｜同人｜画手｜负能｜Gore｜\n\n很温顺，可以找我问问题\n我会尽力回复，欢迎每一位有礼貌的私信者\n药理学习中…\n喜欢路评and碎碎念\n\n想巡回互关和同类互fo😭\n可以麻烦宝宝们转帖嘛🥺❤ https://t.co/381LEvDCBg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-22T13:03:13.000Z",
+        "description": "=小梦 焦虑抑郁\n互fo同类大欢迎",
+        "id": "1859945704082616320",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087828304695017596",
+        "name": "夢夢夢夢梦",
+        "pinned_tweet_id": "2087196839322014092",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1859945704082616320/1785171215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081784772511367170/eiwklKMv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 70,
+          "like_count": 414,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 196
+        },
+        "url": "",
+        "username": "magie0527",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-12T20:25:09.000Z",
+        "description": "可以叫我6点。\n\n让我明天 将一切重新来 该有多好？\n我一定更不负责任的生活 早知道。\n\n❤永远偏爱：@Korewoizontoyo\n\n｜双相｜ODer｜oc｜同人｜绝望De画手｜负能｜\n纯粹个人号发什么随心情\n不见证不参与争议\n查属性回fo回私信\n药理学爱好，正在学习中…\n会尽力回答您的问题\n可以私信我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 51,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2087636528633982976",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087792319474909197",
+        "name": "6点，梦想哭了2.0",
+        "pinned_tweet_id": "2087667609223524719",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2087636528633982976/1786566851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087637037096771584/rJV3QI9C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 39,
+          "like_count": 93,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 51
+        },
+        "url": "",
+        "username": "67De_dian",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1859945704082616320",
+    "conversation_id": "2087479341261427132",
+    "created_at": "2026-08-12T16:46:40.000Z",
+    "display_text_range": [
+      8,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T17:46:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087581547507634435"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2085050639835652096",
+          "start": 0,
+          "username": "zzzwbn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087581547507634435",
+    "in_reply_to_user_id": "2085050639835652096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087511265346568553",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zzzwbn 是这样啦~不过最好的果然还是原生发呢，是一样的感觉！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1859945704082616320",
+        "conversation_id": "2087479341261427132",
+        "created_at": "2026-08-12T16:46:40.000Z",
+        "display_text_range": [
+          8,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T17:46:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087581547507634435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2085050639835652096",
+              "start": 0,
+              "username": "zzzwbn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087581547507634435",
+        "in_reply_to_user_id": "2085050639835652096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087511265346568553",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zzzwbn 是这样啦~不过最好的果然还是原生发呢，是一样的感觉！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085050639835652096",
+        "conversation_id": "2087479341261427132",
+        "created_at": "2026-08-12T12:07:24.000Z",
+        "display_text_range": [
+          11,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T13:07:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087511265346568553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1859945704082616320",
+              "start": 0,
+              "username": "magie0527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087511265346568553",
+        "in_reply_to_user_id": "1859945704082616320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087479341261427132",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@magie0527 买个假发戴着也不错"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-22T13:03:13.000Z",
+        "description": "=小梦 焦虑抑郁\n互fo同类大欢迎",
+        "id": "1859945704082616320",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087581547507634435",
+        "name": "夢夢夢夢梦",
+        "pinned_tweet_id": "2087196839322014092",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1859945704082616320/1785171215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081784772511367170/eiwklKMv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 70,
+          "like_count": 404,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 183
+        },
+        "url": "",
+        "username": "magie0527",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T17:10:20.000Z",
+        "description": "",
+        "id": "2085050639835652096",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087544462683824362",
+        "name": "迪迦",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085051736415481856/6ZBimwaw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 3,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 12
+        },
+        "url": "",
+        "username": "zzzwbn",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

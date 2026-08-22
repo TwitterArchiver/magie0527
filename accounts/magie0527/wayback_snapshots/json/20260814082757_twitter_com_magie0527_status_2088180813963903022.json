@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1859945704082616320",
+    "conversation_id": "2088141473439228201",
+    "created_at": "2026-08-14T08:27:57.000Z",
+    "display_text_range": [
+      16,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T09:27:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088180813963903022"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1374681196412559360",
+          "start": 0,
+          "username": "KoiShi79538682"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088180813963903022",
+    "in_reply_to_user_id": "1374681196412559360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088175598015553887",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KoiShi79538682 看到惹，好开心吖又可以不用去医院了（。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1859945704082616320",
+        "conversation_id": "2088141473439228201",
+        "created_at": "2026-08-14T08:27:57.000Z",
+        "display_text_range": [
+          16,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T09:27:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088180813963903022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1374681196412559360",
+              "start": 0,
+              "username": "KoiShi79538682"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088180813963903022",
+        "in_reply_to_user_id": "1374681196412559360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088175598015553887",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KoiShi79538682 看到惹，好开心吖又可以不用去医院了（。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374681196412559360",
+        "conversation_id": "2088141473439228201",
+        "created_at": "2026-08-14T08:07:13.000Z",
+        "display_text_range": [
+          11,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T09:07:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088175598015553887"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1859945704082616320",
+              "start": 0,
+              "username": "magie0527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088175598015553887",
+        "in_reply_to_user_id": "1859945704082616320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088141473439228201",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@magie0527 我去你中奖了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-22T13:03:13.000Z",
+        "description": "=小梦 焦虑抑郁\n互fo同类大欢迎",
+        "id": "1859945704082616320",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088180813963903022",
+        "name": "夢夢夢夢梦",
+        "pinned_tweet_id": "2087196839322014092",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1859945704082616320/1785171215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081784772511367170/eiwklKMv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 67,
+          "like_count": 437,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 211
+        },
+        "url": "",
+        "username": "magie0527",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-03-24T11:15:20.000Z",
+        "description": "不OD 普通人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/6bLyhH",
+                "end": 23,
+                "expanded_url": "https://b23.tv/6bLyhH",
+                "start": 0,
+                "url": "https://t.co/A1shlGqsSc"
+              }
+            ]
+          }
+        },
+        "id": "1374681196412559360",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088178440730268011",
+        "name": "超级沙包",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1762433524450373632/ej3YeGuM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 934,
+          "like_count": 2507,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 3199
+        },
+        "url": "https://t.co/A1shlGqsSc",
+        "username": "KoiShi79538682",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

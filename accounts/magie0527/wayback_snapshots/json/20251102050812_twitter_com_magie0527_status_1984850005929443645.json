@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1859945704082616320",
+    "conversation_id": "1969739888812822571",
+    "created_at": "2025-11-02T05:08:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T06:08:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984850005929443645"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1763953895968034816",
+          "start": 0,
+          "username": "Ehooooooost"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984850005929443645",
+    "in_reply_to_user_id": "1763953895968034816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969739888812822571",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ehooooooost 天啊老大能问问这个在哪里购入吗😭😭非常抱歉打扰您！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1187,
+        "media_key": "3_1969739871960109056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1Xr-jgbEAAZNXe.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1859945704082616320",
+        "conversation_id": "1969739888812822571",
+        "created_at": "2025-11-02T05:08:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T06:08:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984850005929443645"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1763953895968034816",
+              "start": 0,
+              "username": "Ehooooooost"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984850005929443645",
+        "in_reply_to_user_id": "1763953895968034816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969739888812822571",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ehooooooost 天啊老大能问问这个在哪里购入吗😭😭非常抱歉打扰您！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969739871960109056"
+          ]
+        },
+        "author_id": "1763953895968034816",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1969739888812822571",
+        "created_at": "2025-09-21T12:26:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T13:26:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969739888812822571"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Cap6F9Gn0r",
+              "end": 27,
+              "expanded_url": "https://x.com/Ehooooooost/status/1969739888812822571/photo/1",
+              "media_key": "3_1969739871960109056",
+              "start": 4,
+              "url": "https://t.co/Cap6F9Gn0r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969739888812822571",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 416,
+          "impression_count": 58487,
+          "like_count": 4021,
+          "quote_count": 5,
+          "reply_count": 3,
+          "retweet_count": 520
+        },
+        "reply_settings": "everyone",
+        "text": "🪶🚬🔮 https://t.co/Cap6F9Gn0r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-22T13:03:13.000Z",
+        "description": "=莓祭/yume\n中国語注意/低浮上/日本語は翻訳器を使います＞＜",
+        "id": "1859945704082616320",
+        "name": "-yume-",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859946077061091328/7BhLQwG8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 18,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 2
+        },
+        "username": "magie0527",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-02T15:46:14.000Z",
+        "description": "🈲AI    18+内容🈶 头像·背景等使用随意，不能自印以及牵扯一切盈利。\n转载请标注画师：Ehost\n友情提示：4推4嬷主64向，偶尔有4x其他人，恶俗警告\n辛良辛请不要扩qwq",
+        "id": "1763953895968034816",
+        "location": "Japan",
+        "name": "太初终末最古未来💞+🔞",
+        "pinned_tweet_id": "1981027494867222921",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929760703843647488/5l_ZgWZw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4766,
+          "following_count": 75,
+          "like_count": 1642,
+          "listed_count": 8,
+          "media_count": 493,
+          "tweet_count": 2000
+        },
+        "username": "Ehooooooost",
+        "verified": false
+      }
+    ]
+  }
+}

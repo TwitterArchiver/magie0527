@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1859945704082616320",
+    "conversation_id": "2083784820472373468",
+    "created_at": "2026-08-02T05:19:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T06:19:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083784820472373468"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1852949232749293568",
+          "start": 3,
+          "username": "xsen60102"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083784820472373468",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083541765894861228",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xsen60102: 八月祝大家O大D，吃药不耐受，幻觉超好受，买药不被标，卖药不被抓，pr不成瘾，小美不耐受，晚安不恐幻，思思不失忆。新的一月 越o越有劲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1859945704082616320",
+        "conversation_id": "2083784820472373468",
+        "created_at": "2026-08-02T05:19:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T06:19:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083784820472373468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1852949232749293568",
+              "start": 3,
+              "username": "xsen60102"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083784820472373468",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083541765894861228",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xsen60102: 八月祝大家O大D，吃药不耐受，幻觉超好受，买药不被标，卖药不被抓，pr不成瘾，小美不耐受，晚安不恐幻，思思不失忆。新的一月 越o越有劲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852949232749293568",
+        "conversation_id": "2083541765894861228",
+        "created_at": "2026-08-01T13:14:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T14:14:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083541765894861228"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083541765894861228",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1098,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "八月祝大家O大D，吃药不耐受，幻觉超好受，买药不被标，卖药不被抓，pr不成瘾，小美不耐受，晚安不恐幻，思思不失忆。新的一月 越o越有劲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-22T13:03:13.000Z",
+        "description": "=小梦/中文/💊🚬妹\n刚开始玩，直of会回\n欢迎互动！我很努力的回复",
+        "id": "1859945704082616320",
+        "name": "yyyyyyyume",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081784772511367170/eiwklKMv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 32,
+          "like_count": 118,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 13
+        },
+        "url": "",
+        "username": "magie0527",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-03T05:41:53.000Z",
+        "description": "我只是一个普通人不要为难我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/uiamu",
+                "end": 23,
+                "expanded_url": "http://ngl.link/uiamu",
+                "start": 0,
+                "url": "https://t.co/ql5OP1viY7"
+              }
+            ]
+          }
+        },
+        "id": "1852949232749293568",
+        "location": "天台上",
+        "name": "Uiamu",
+        "pinned_tweet_id": "2083629428987625712",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080949461128462336/buEHLXUV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 75,
+          "like_count": 667,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 135
+        },
+        "url": "https://t.co/ql5OP1viY7",
+        "username": "xsen60102",
+        "verified": false
+      }
+    ]
+  }
+}

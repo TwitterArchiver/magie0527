@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088481720920133632"
+      ],
+      "media_source_tweet_id": [
+        "2088481725819084824"
+      ]
+    },
+    "author_id": "1859945704082616320",
+    "conversation_id": "2088668181527503256",
+    "created_at": "2026-08-15T16:44:34.000Z",
+    "display_text_range": [
+      0,
+      55
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T17:44:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088668181527503256"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1710485985455190016",
+          "start": 3,
+          "username": "sertr4chan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/K9dKSWuiDT",
+          "end": 55,
+          "expanded_url": "https://x.com/sertr4chan/status/2088481725819084824/photo/1",
+          "media_key": "3_2088481720920133632",
+          "start": 32,
+          "url": "https://t.co/K9dKSWuiDT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088668181527503256",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2088481720920133632"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 108
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088481725819084824",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sertr4chan: ame-chan is ok? https://t.co/K9dKSWuiDT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 149,
+        "media_key": "3_2088481720920133632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPvHD1dXUAAgiMB.jpg",
+        "width": 200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088481720920133632"
+          ],
+          "media_source_tweet_id": [
+            "2088481725819084824"
+          ]
+        },
+        "author_id": "1859945704082616320",
+        "conversation_id": "2088668181527503256",
+        "created_at": "2026-08-15T16:44:34.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T17:44:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088668181527503256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1710485985455190016",
+              "start": 3,
+              "username": "sertr4chan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/K9dKSWuiDT",
+              "end": 55,
+              "expanded_url": "https://x.com/sertr4chan/status/2088481725819084824/photo/1",
+              "media_key": "3_2088481720920133632",
+              "start": 32,
+              "url": "https://t.co/K9dKSWuiDT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088668181527503256",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2088481720920133632"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 108
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088481725819084824",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sertr4chan: ame-chan is ok? https://t.co/K9dKSWuiDT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088481720920133632"
+          ]
+        },
+        "author_id": "1710485985455190016",
+        "conversation_id": "2088481725819084824",
+        "created_at": "2026-08-15T04:23:40.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T05:23:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088481725819084824"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/K9dKSWuiDT",
+              "end": 39,
+              "expanded_url": "https://x.com/sertr4chan/status/2088481725819084824/photo/1",
+              "media_key": "3_2088481720920133632",
+              "start": 16,
+              "url": "https://t.co/K9dKSWuiDT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088481725819084824",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2088481720920133632"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 4206,
+          "like_count": 586,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 108
+        },
+        "reply_settings": "everyone",
+        "text": "ame-chan is ok? https://t.co/K9dKSWuiDT"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-22T13:03:13.000Z",
+        "description": "=小梦 焦虑抑郁\n互fo同类大欢迎",
+        "id": "1859945704082616320",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088668181527503256",
+        "name": "夢夢夢夢梦",
+        "pinned_tweet_id": "2087196839322014092",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1859945704082616320/1785171215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081784772511367170/eiwklKMv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 71,
+          "like_count": 486,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 235
+        },
+        "url": "",
+        "username": "magie0527",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-10-07T02:44:10.000Z",
+        "description": "(account supervised by an adult)\n\nJust one NEET that needs a lobotomy x__x\ni love tuna 🐟",
+        "id": "1710485985455190016",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088481725819084824",
+        "name": "sertra",
+        "pinned_tweet_id": "2017194117072130374",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1710485985455190016/1784598235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078382671097389056/RnwBovuX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 472,
+          "following_count": 283,
+          "like_count": 1728,
+          "listed_count": 1,
+          "media_count": 178,
+          "tweet_count": 636
+        },
+        "url": "",
+        "username": "sertr4chan",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

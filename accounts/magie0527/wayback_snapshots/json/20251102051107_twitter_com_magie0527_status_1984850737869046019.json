@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1984850487884333056"
+      ]
+    },
+    "author_id": "1859945704082616320",
+    "conversation_id": "1984850737869046019",
+    "created_at": "2025-11-02T05:11:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T06:11:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1984850737869046019"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 15,
+          "start": 0,
+          "tag": "Limbus_Company"
+        },
+        {
+          "end": 21,
+          "start": 16,
+          "tag": "LCB4"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hf53TT90Fo",
+          "end": 45,
+          "expanded_url": "https://x.com/magie0527/status/1984850737869046019/photo/1",
+          "media_key": "3_1984850487884333056",
+          "start": 22,
+          "url": "https://t.co/hf53TT90Fo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984850737869046019",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#Limbus_Company #LCB4 https://t.co/hf53TT90Fo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1660,
+        "media_key": "3_1984850487884333056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4ubAKabQAAL242.jpg",
+        "width": 1240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984850487884333056"
+          ]
+        },
+        "author_id": "1859945704082616320",
+        "conversation_id": "1984850737869046019",
+        "created_at": "2025-11-02T05:11:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T06:11:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984850737869046019"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 0,
+              "tag": "Limbus_Company"
+            },
+            {
+              "end": 21,
+              "start": 16,
+              "tag": "LCB4"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hf53TT90Fo",
+              "end": 45,
+              "expanded_url": "https://x.com/magie0527/status/1984850737869046019/photo/1",
+              "media_key": "3_1984850487884333056",
+              "start": 22,
+              "url": "https://t.co/hf53TT90Fo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984850737869046019",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#Limbus_Company #LCB4 https://t.co/hf53TT90Fo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-22T13:03:13.000Z",
+        "description": "=莓祭/yume\n中国語注意/低浮上/日本語は翻訳器を使います＞＜",
+        "id": "1859945704082616320",
+        "name": "-yume-",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859946077061091328/7BhLQwG8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 18,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 4
+        },
+        "username": "magie0527",
+        "verified": false
+      }
+    ]
+  }
+}

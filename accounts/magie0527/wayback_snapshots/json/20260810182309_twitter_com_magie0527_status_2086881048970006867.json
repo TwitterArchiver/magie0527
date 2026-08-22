@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2086880671558250496"
+      ]
+    },
+    "author_id": "1859945704082616320",
+    "conversation_id": "2086881048970006867",
+    "created_at": "2026-08-10T18:23:09.000Z",
+    "display_text_range": [
+      0,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T19:23:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086881048970006867"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/DovV6lqSEG",
+          "end": 41,
+          "expanded_url": "https://x.com/magie0527/status/2086881048970006867/video/1",
+          "media_key": "13_2086880671558250496",
+          "start": 18,
+          "url": "https://t.co/DovV6lqSEG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086881048970006867",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2086880671558250496"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不化妆的话也ok吗\n总之一会就删😌 https://t.co/DovV6lqSEG"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3456,
+        "height": 1920,
+        "media_key": "13_2086880671558250496",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2086880671558250496/img/lFeWrU_bgmjnsl6J.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086880671558250496/vid/avc1/320x568/-na83Pc_fgncM3Zr.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086880671558250496/vid/avc1/480x852/3cLZWfuPexcUcXSi.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086880671558250496/vid/avc1/720x1280/Kd_LGZ_ThJitA9js.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2086880671558250496/pl/-lCkyC617ovAMWsh.m3u8?tag=14"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2086880671558250496"
+          ]
+        },
+        "author_id": "1859945704082616320",
+        "conversation_id": "2086881048970006867",
+        "created_at": "2026-08-10T18:23:09.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T19:23:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086881048970006867"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DovV6lqSEG",
+              "end": 41,
+              "expanded_url": "https://x.com/magie0527/status/2086881048970006867/video/1",
+              "media_key": "13_2086880671558250496",
+              "start": 18,
+              "url": "https://t.co/DovV6lqSEG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086881048970006867",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2086880671558250496"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不化妆的话也ok吗\n总之一会就删😌 https://t.co/DovV6lqSEG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-11-22T13:03:13.000Z",
+        "description": "=小梦/全中文/💊🚬🎨\n刚开始玩，互fo大欢迎\n欢迎互动！我很努力的回复",
+        "id": "1859945704082616320",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086881048970006867",
+        "name": "夢夢夢夢梦",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1859945704082616320/1785171215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081784772511367170/eiwklKMv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 49,
+          "like_count": 308,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 80
+        },
+        "url": "",
+        "username": "magie0527",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
